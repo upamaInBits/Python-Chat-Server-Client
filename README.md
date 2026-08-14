@@ -1,18 +1,12 @@
 # Chat Server and Client
 
-## Team Members
+## Overview
 
-*   [Saxton Dees]
-*   [Upama Thapa Magar]
-*   [Emily Wolfe]
+This project implements a basic chat server and client using Python. The server supports multiple clients connecting over the internet, allowing them to join channels, send private messages, and change their nicknames.
 
 ## Demo Video
 
 [https://drive.google.com/file/d/1yg6GJQoQHJ9sx_7LDegCyyvGKQu8njTq/view]
-
-## Overview
-
-This project implements a basic chat server and client using Python. The server supports multiple clients connecting over the internet, allowing them to join channels, send private messages, and change their nicknames.
 
 ## Reflection 
 
@@ -110,3 +104,9 @@ To format your code, run:
 ```bash
 black .
 isort .
+
+## Team Members
+
+*   [Saxton Dees]
+*   [Upama Thapa Magar]
+*   [Emily Wolfe]
