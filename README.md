@@ -92,6 +92,12 @@ prints help menu
 
 In order to test I used anaconda3 and set up a conda environment with python 3.9 and git installed. I then cloned the project and pulled up multiple terminals in the environment and CDed into the project. I then rant the Server on one and two clients on the other two terminals. At this point we tested the commands and went back and revised when needed. 
 
+## Team Members
+
+*   [Saxton Dees]
+*   [Upama Thapa Magar]
+*   [Emily Wolfe]
+
 ##  Development
 
 This project uses `black` and `isort` to maintain code style and consistency.
@@ -105,8 +111,4 @@ To format your code, run:
 black .
 isort .
 
-## Team Members
 
-*   [Saxton Dees]
-*   [Upama Thapa Magar]
-*   [Emily Wolfe]
